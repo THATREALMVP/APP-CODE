@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>About</title>
+    <style type="text/css">
+	h3{
+		color: orange;
+	}
+	</style>
+</head>
+<body>
+<h1><i>Apple Cake Recipe</i></h1>
+<br>
+<p>This Moist Apple Pecan Cake is so delicious!</p>
+<p>This apple pecan cinnamon cake is so soft and fluffy,a little sticky on top
+    (like a caramel candy) and very tasty with light crunchiness of pecan nuts and little tartness of apples.</p>
+
+<br>
+<h2>Ingredients</h2>
+<ol>
+    <li>150 gms sugar +115 gms Palm sugar or Brown sugar</li>
+    <li>2 Eggs</li>
+    <li>225 gms All purpose flour</li>
+    <li>200 gms Softened Butter</li>
+    <li>1 tsp baking powder</li>
+    <li>1 tsp cinnamon powder</li>
+    <li>1/4 tsp salt</li>
+    <li>1 tsps vanilla essence</li>
+    <li>2 Granny Smith apples, peeled and chopped in small pieces</li>
+    <li>90-100 gms pecans, chopped small</li>
+</ol>
+
+<h2>How to make the Apple cake</h2>
+<p>We can prepare the cake batter in these simple steps</p>
+<ul>
+    <li>Cream the butter and sugar</li>
+    <li>Add eggs one by one</li>
+    <li>Add the vanilla extract</li>
+    <li>Sift in the flour baking powder and salt and combine everything until they are just combined into a homogenous mixture.</li>
+    <li>Transfer into a greased baking tray.</li>
+    <li>Add the apple,pecan and palm sugar or brown sugar on top.
+        (or if don't like the rustic top part of cake you can keep some cake batter to add on the top).</li>
+    <li>Using a skewer,swirl the top of cake to get marble effect.</li>
+</ul>
+<br>
+<h3>Baking the cake</h3>
+<ul>
+    <li>Bake at 375 F Preheated oven for 60-80 minutes.</li>
+    <li>You can check the doneness of cake, by poking a skewer into the center of the cake and if comes out clean, our cake is done.</li>
+</ul>
+<br>
+<h4><b><i>Enjoy!</i></b></h4>
+
+</body>
+</html>
