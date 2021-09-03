@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>About</title>
+    <style type="text/css">
+	h3{
+		color: orange;
+	}
+	</style>
+</head>
+<body>
+
+<h1>Coconut Cake Recipe</h1>
+<br>
+<p>This Coconut Cake is one of the best cakes you’ll ever make! It’s light and fluffy,
+    it’s brimming with sweet coconut flavor and it’s finished with a rich and creamy cream cheese frosting.
+    This has been a reader favorite recipe for years and it’s one of my my families favorites!</p>
+<br>
+<h2>Ingredients for Homemade Coconut Cake</h2>
+<ol>
+    <li>3/4 pound (3 sticks) unsalted butter, at room temperature, plus more for greasing the pans</li>
+    <li>2 cups sugar</li>
+    <li>5 extra-large eggs, at room temperature</li>
+    <li>1 1/2 teaspoons pure vanilla extract</li>
+    <li>1 1/2 teaspoons pure almond extract</li>
+    <li>3 cups all-purpose flour, plus more for dusting the pans</li>
+    <li>1 teaspoon baking powder</li>
+    <li>1/2 teaspoon baking soda</li>
+    <li>1/2 teaspoon kosher salt</li>
+    <li>1 cup milk</li>
+    <li>4 ounces sweetened shredded coconut</li>
+</ol>
+<h5>For the frosting:</h5>
+<ol>
+    <li>1 pound cream cheese, at room temperature</li>
+    <li>1/2 pound (2 sticks) unsalted butter, at room temperature</li>
+    <li>3/4 teaspoon pure vanilla extract</li>
+    <li>1/4 teaspoon pure almond extract</li>
+    <li>1 pound confectioners' sugar, sifted</li>
+    <li>6 ounces sweetened shredded coconut</li>
+</ol>
+<br>
+<h2>How to make the coconut cake</h2>
+<ul>
+    <li>Preheat oven and prepare cake pans.</li>
+    <li>Sift cake flour into a bowl then whisk with baking powder and salt.</li>
+    <li>In an electric stand mixer cream sugar, butter and canola oil.</li>
+    <li>Mix in egg yolks and extracts.</li>
+    <li>Blend in flour mixture in 3 additions alternating with additions of coconut milk.</li>
+    <li>Seperately whip egg whites with cream of tartar to stif peaks.</li>
+    <li>Fold 1/3 of the egg whites into cake batter at a time.</li>
+    <li>Pour batter into cake pans and spread even.</li>
+    <li>Bake until set, let cool completely then frost and finish with shredded coconut.</li>
+</ul>
+<br>
+<h4><b><i>Enjoy!</i></b></h4>
+
+
+</body>
+</html>
